@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"> <head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"> <=
+!--[if gte mso 15]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:Pixels=
+PerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]-->=
+ <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:Pixel=
+sPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]--=
+> <meta charset=3D"UTF-8"> <meta http-equiv=3D"X-UA-Compatible" content=3D"=
+IE=3Dedge"> <meta name=3D"viewport" content=3D"width=3Ddevice-width, initia=
+l-scale=3D1"> <title>Confirma=C3=A7=C3=A3o de=C2=A0cancelamento</title> <st=
+yle type=3D"text/css">
+=09=09p { margin:10px 0; padding:0; }
+=09=09table { border-collapse:collapse; }
+=09=09h1,h2,h3,h4,h5,h6 { display:block; margin:0; padding:0; }
+=09=09img, a img { border:0; height:auto; outline:none; text-decoration:non=
+e; }
+=09=09body, #bodyTable, #bodyCell { height:100%; margin:0; padding:0; width=
+:100%; }
+=09=09#outlook a{ padding:0; }
+=09=09img { -ms-interpolation-mode:bicubic; }
+=09=09table { mso-table-lspace:0pt; mso-table-rspace:0pt; }
+=09=09.ReadMsgBody { width:100%; }
+=09=09p,a,li,td,blockquote { mso-line-height-rule:exactly; }
+=09=09a[href^=3Dtel],a[href^=3Dsms] { color:inherit; cursor:default; text-d=
+ecoration:none; }
+=09=09p,a,li,td,body,table,blockquote { -ms-text-size-adjust:100%; -webkit-=
+text-size-adjust:100%; }
+
+=09=09.ExternalClass {width:100%;} /* Force Hotmail to display emails at fu=
+ll width */
+=09=09.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass=
+ font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Forces=
+ Hotmail to display normal line spacing.  More on that: http://www.emailona=
+cid.com/forum/viewthread/43/ */
+
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+
+=09=09.sectionContainer {
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09.img-max {
+=09=09=09vertical-align:bottom;
+=09=09}
+
+=09=09/* media queries */
+=09=09@media only screen and (min-width:768px){
+=09=09=09.columnContainer {
+=09=09=09=09max-width:600px !important;
+=09=09=09}
+=09=09}
+=09=09@media only screen and (max-width: 480px){
+=09=09=09p,a,li,td,body,table,blockquote {
+=09=09=09=09-webkit-text-size-adjust:none !important;
+=09=09=09}
+=09=09=09p {
+=09=09=09=09font-size:16px !important;
+=09=09=09=09line-height:150% !important;
+=09=09=09}
+=09=09=09body{
+=09=09=09=09width:100% !important;
+=09=09=09=09min-width:100% !important;
+=09=09=09}
+=09=09}
+=09=09@media only screen and (max-width: 480px){
+=09=09=09.columnContainer {
+=09=09=09=09max-width:100% !important;
+=09=09=09=09width:100% !important;
+=09=09=09}
+=09=09}
+
+=09=09@media only screen and (max-width: 480px){
+=09=09=09h1 { font-size:22px !important; line-height:125% !important; }
+=09=09=09h2 { font-size:20px !important; line-height:125% !important; }
+=09=09=09h3 { font-size:18px !important; line-height:125% !important; }
+=09=09=09h4 { font-size:16px !important; line-height:150% !important; }
+=09=09}
+
+=09=09@media (max-width: 480px){
+=09=09=09.padding {
+=09=09=09=09padding-left: 18px !important;
+=09=09=09=09padding-right: 18px !important;
+=09=09=09}
+=09=09} @media (max-width: 480px){
+=09=09=09.img-max {
+=09=09=09=09width: 100% !important;
+=09=09=09}
+=09=09} @media (max-width: 480px){
+=09=09=09.makefull {
+=09=09=09=09max-width:100% !important;
+=09=09=09=09width:100% !important;
+=09=09=09}
+=09=09}
+
+=09</style> </head> <body style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; width: 100%; height: 100%; margin: 0; padding: 0; backg=
+round-color: #ffffff;"> <center> <table align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTab=
+le" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; widt=
+h: 100%; height: 100%; margin: 0; padding: 0; background-color: #ffffff;"> =
+<tr> <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; width: 100%; height: 100%; margin: 0; padding: 0; border-top: 0;"> <=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td align=
+=3D"center" valign=3D"top" class=3D"section1Column" style=3D"mso-line-heigh=
+t-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; background-color: transparent; border-top: 0; border-bottom: 0px; padding=
+-top: 0px; padding-bottom: 0px;"> <!--[if (gte mso 9)|(IE)]><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" style=3D"width:600=
+px" class=3D"sectionContainerIE"> <tr> <td valign=3D"top" align=3D"center" =
+width=3D"600" style=3D"width:600px;"><![endif]--> <table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"sectionContainer" st=
+yle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width:100%=
+; max-width: 600px !important; background-color: transparent;"> <tr> <td va=
+lign=3D"top" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;"> <table class=3D"columnContainer" al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ style=3D"width:600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-t=
+able-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+"> <tr> <td class=3D"columnContainerCell" valign=3D"top" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; font-size: 16px; line-height: 110%; font-family: Helvetica, Arial, s=
+ans-serif; color: #666666;"> <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" class=3D"columnContainerSize" style=3D"border-coll=
+apse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; width:100%; max-width: 600px=
+ !important; background-color: transparent;"> <tr> <td valign=3D"top" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"> <!--[if (gte mso 9)|(IE)]><table align=3D"center" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:=
+600px;"> <tr> <td align=3D"center" valign=3D"top" width=3D"390" style=3D"wi=
+dth:390px;"><![endif]--> <table align=3D"left" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"390" class=3D"columnContainer" style=3D"width=
+:390px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td cla=
+ss=3D"columnContainerCell" valign=3D"top" style=3D"mso-line-height-rule: ex=
+actly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-bre=
+ak: break-word; vertical-align: top; text-align: left; font-size: 11px; lin=
+e-height: 120%; font-family: Helvetica, Arial, sans-serif; color: #888888; =
+padding-top: 9px; padding-left: 9px; padding-bottom: 9px; padding-right: 9p=
+x;"> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]></td> <td align=3D"cent=
+er" valign=3D"top" width=3D"210" style=3D"width:210px;"><![endif]--> <table=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"2=
+10" class=3D"columnContainer" style=3D"width:210px;border-collapse: collaps=
+e;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;"> <tr> <td class=3D"columnContainerCell" vali=
+gn=3D"top" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; word-break: break-word; vertical-align:=
+ top; text-align: right; font-size: 11px; line-height: 120%; font-family: H=
+elvetica, Arial, sans-serif; color: #888888; padding-top: 9px; padding-left=
+: 9px; padding-bottom: 9px; padding-right: 9px;"> Visualizar como <a href=
+=3D"http://t.emailmkt.bitnix.com.br/wf/click?upn=3DuwidiviHmSYMxtOKXw13CCDe=
+EGVnK1H6DzKx3QTpOk1gPDG1GB8Mfk4dy2QvvDP8l3OXXtO1YIGCEmssyh6oq2fsu88AZXykUiu=
+kHjF5-2BY0-2FxXBsqeK5jeFukHheyqs9GCsaKizY9U7jXbZ7-2FLl4XUwlm5GlrTCviYUq81Xm=
+ak4-3D_6eAXn76gwMXDlcUYpModpU7vxJlkUGClqyW-2FNwaL8L4hxhTaT3847VkvY3oRpPyLd-=
+2FISDP9X8Prs4dVOzGqJcYy6DsSt2cHh7krcY3o9i38-2F-2BVHIPiSh2Dvv7COV2aqckERRyC0=
+Q7cj71aisGgKq-2FbbxAc8j-2F-2FdTxVG-2FHQgFoJehqyJB5eItvkV-2Bi825JlcNl8zrcbNr=
+7-2BPabjZF1SFx3AY7S-2FySXFS-2BliEOYBj1p8wZQvEWNwu-2Bd2IYS0M9nLARxIKYQeS-2F-=
+2BC6v-2Fe4yK5O6FhuH7FjCUXhT-2FOwQlVDDLYB-2FqEqNSitQ64k1-2FRZ7-2FmlH" style=
+=3D"color: #333333;text-decoration: underline;" data-scanner-ignore>p=C3=A1=
+gina web</a> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]></td> </tr> </t=
+able><![endif]--> </td> </tr> </table> </td> </tr> </table> </td> </tr> </t=
+able> <!--[if (gte mso 9)|(IE)]></td> </tr> </table><![endif]--> </td> </tr=
+>
+<tr> <td align=3D"center" valign=3D"top" class=3D"section1Column" style=3D"=
+mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; background-color: transparent; border-top: 0; border-bottom=
+: 0px; padding-top: 0px; padding-bottom: 0px;"> <!--[if (gte mso 9)|(IE)]><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" style=
+=3D"width:600px" class=3D"sectionContainerIE"> <tr> <td valign=3D"top" alig=
+n=3D"center" width=3D"600" style=3D"width:600px;"><![endif]--> <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"section=
+Container" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; width:100%; max-width: 600px !important; background-color: transparent;"=
+> <tr> <td valign=3D"top" style=3D"mso-line-height-rule: exactly; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%;"> <table class=3D"column=
+Container" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600" style=3D"width:600px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;"> <tr> <td class=3D"columnContainerCell" valign=3D"top" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; font-size: 16px; line-height: 110%; font-family: Helvet=
+ica, Arial, sans-serif; color: #666666;"> <table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; b=
+order-collapse:collapse !important;"> <tr> <td bgcolor=3D"transparent" alig=
+n=3D"left" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; line-height=
+: 150%; font-family: Helvetica, Arial, sans-serif; color: #666666; padding:=
+ 9px 18px; word-break: break-word !important;" class=3D"padding"> <h1 style=
+=3D"line-height: 125%;">Confirma=C3=A7=C3=A3o de=C2=A0cancelamento</h1> <p =
+style=3D"line-height: 150%;">Ol=C3=A1 ,</p> <p style=3D"line-height: 150%;"=
+>Atendendo ao seu pedido, cancelamos sua assinatura no <br>RD Station Marke=
+ting.</p> <p style=3D"line-height: 150%;">Seu servi=C3=A7o continuar=C3=A1 =
+dispon=C3=ADvel e voc=C3=AA poder=C3=A1 exportar seus contatos at=C3=A9 o d=
+ia 9 de agosto de 2018.</p> <p style=3D"line-height: 150%;">Esperamos que v=
+oc=C3=AA tenha gostado do servi=C3=A7o, ser=C3=A1 um prazer t=C3=AA-lo como=
+ cliente no futuro. Se voc=C3=AA mudar de ideia, =C3=A9 s=C3=B3 reiniciar s=
+ua assinatura para continuar gerando novos contatos e vendas com marketing =
+digital.</p> </td> </tr> </table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"componentContainerButton" style=3D"background-color: transparent; min-=
+width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"> <t=
+body> <tr> <td style=3D"padding-top: 9px; padding-right: 18px; padding-bott=
+om: 9px; padding-left: 18px; mso-line-height-rule: exactly; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left"=
+ class=3D"componentContainerCellButton"> <table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"componentBlockButton" style=3D"border-collap=
+se: separate !important; border: 0px none #000000; border-radius: 4px; back=
+ground-color: #4285f4; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%;"> <tbody> <tr> <td al=
+ign=3D"center" valign=3D"middle" class=3D"componentBlockCellButton" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; padding: 14=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"> <a class=3D"componentButton" title=3D"" href=3D"http:=
+//t.emailmkt.bitnix.com.br/wf/click?upn=3DBkUw0ga1rFtIMHOofbB1Ry6WUAPb0oHIo=
+gguCq1n5uPebN8jQJ4-2FXFZXp6OzWIu-2FSIXVZ1tziV34c0n1A1d8vUaWDfCqUp65pcR925d6=
+kyqOA9MQRLkCHb9SwM5kmlVZ2-2FaabWxDEeFhWnPMBLjH3Q-3D-3D_6eAXn76gwMXDlcUYpMod=
+pU7vxJlkUGClqyW-2FNwaL8L4hxhTaT3847VkvY3oRpPyLd-2FISDP9X8Prs4dVOzGqJcYy6DsS=
+t2cHh7krcY3o9i38-2F-2BVHIPiSh2Dvv7COV2aqckERRyC0Q7cj71aisGgKq-2FbbxAc8j-2F-=
+2FdTxVG-2FHQgFoJd9vgVMccMSHqGdkjo7WRZ5BdY2bOM6lJTdGm7HyqGxyoAI6etaLk3ttkbaI=
+j7NSkVlnz-2BGbP2SYEKPfW12Tah8jWFDOI7c8dNHE2GPv0cncTR6b7bbvydYIK-2BZDlCFs4Hx=
+E-2BcHA2HWPXLsRLK1uwpJ" target=3D"_blank" style=3D"letter-spacing: normal; =
+font-style: normal; font-weight: normal; line-height: 100%; text-align: cen=
+ter; text-decoration: none; color: #FFFFFF; mso-line-height-rule: exactly; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; display: block;=
+ word-break: break-word !important;"> Reiniciar a assinatura </a> </td> </t=
+r> </tbody> </table> </td> </tr> </tbody> </table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important;"> <tr>=
+ <td bgcolor=3D"transparent" align=3D"left" style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:=
+0pt; font-size: 16px; line-height: 150%; font-family: Helvetica, Arial, san=
+s-serif; color: #666666; padding: 9px 18px; word-break: break-word !importa=
+nt;" class=3D"padding"> <p style=3D"line-height: 150%;">Estamos sempre pron=
+tos para ajudar. Acesse a <a title=3D"Central de ajuda" href=3D"http://t.em=
+ailmkt.bitnix.com.br/wf/click?upn=3DuwidiviHmSYMxtOKXw13CMOmhz9rxOrj7FQt0bv=
+VvDcEAJaEOtSYNk8UYSpDGOge21twxyDLW20v9ras14cAtHpA1bf-2Be7IYXNZKRKDg-2FMVw5r=
+OFq3sQNfUn8KpJSiulzOkD4-2F7-2BQvabkRs3zba-2F-2BQ-3D-3D_6eAXn76gwMXDlcUYpMod=
+pU7vxJlkUGClqyW-2FNwaL8L4hxhTaT3847VkvY3oRpPyLd-2FISDP9X8Prs4dVOzGqJcYy6DsS=
+t2cHh7krcY3o9i38-2F-2BVHIPiSh2Dvv7COV2aqckERRyC0Q7cj71aisGgKq-2FbbxAc8j-2F-=
+2FdTxVG-2FHQgFoJcvork6I3qVbKK-2F6rEMyJQx7rGoUY6zDDASou-2FpRIfjM6XTY4x-2BlbZ=
+rjuw33JjgkIcYA3tLak2kadCsS2HE9FtODQQvJVkbqsgs8SWj8nLZtO020-2FA4st02udG5BpD6=
+I3ZV6hsg0rNjSjJ92fUz0-2FKQ" target=3D"_blank" rel=3D"noopener">Central de a=
+juda</a> para saber mais ou fale com a gente.</p> <p style=3D"line-height: =
+150%;">Um abra=C3=A7o!</p> <p style=3D"line-height: 150%;">=E2=80=93Equipe =
+RD Station</p> </td> </tr> </table> </td> </tr> </table> </td> </tr> </tabl=
+e> <!--[if (gte mso 9)|(IE)]></td> </tr> </table><![endif]--> </td> </tr>
+<tr> <td align=3D"center" valign=3D"top" class=3D"section1Column" style=3D"=
+mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; background-color: transparent; border-top: 0; border-bottom=
+: 0px; padding-top: 0px; padding-bottom: 0px;"> <!--[if (gte mso 9)|(IE)]><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" style=
+=3D"width:600px" class=3D"sectionContainerIE"> <tr> <td valign=3D"top" alig=
+n=3D"center" width=3D"600" style=3D"width:600px;"><![endif]--> <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"section=
+Container" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; width:100%; max-width: 600px !important; background-color: transparent;"=
+> <tr> <td valign=3D"top" style=3D"mso-line-height-rule: exactly; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%;"> <table class=3D"column=
+Container" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600" style=3D"width:600px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;"> <tr> <td class=3D"columnContainerCell" valign=3D"top" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; font-size: 16px; line-height: 110%; font-family: Helvet=
+ica, Arial, sans-serif; color: #666666;"> <table class=3D"columnContainer" =
+align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"60=
+0" style=3D"width:600px;border-collapse: collapse;mso-table-lspace: 0pt;mso=
+-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;"> <tr> <td class=3D"columnContainerCell" valign=3D"top" style=3D"mso-lin=
+e-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%; font-size: 11px; line-height: 120%; font-family: Helvetica, Arial,=
+ sans-serif; color: #888888; text-align: center; padding-top: 9px; padding-=
+bottom: 9px; padding-left: 9px; padding-right: 9px;"> <p style=3D"font-size=
+: 11px !important; margin: 0; line-height: 120%;">Enviado por <b>Bitnix</b>=
+</p> <p style=3D"font-size: 11px !important; margin: 0; line-height: 120%;"=
+>(48) 988621660</p> <p style=3D"font-size: 11px !important; margin: 0; line=
+-height: 120%;"> Se deseja n=C3=A3o receber mais mensagens como esta, <a hr=
+ef=3D"http://t.emailmkt.bitnix.com.br/wf/click?upn=3DuwidiviHmSYMxtOKXw13CC=
+DeEGVnK1H6DzKx3QTpOk1xO9Zdmt0B8kACcw7f93YHYL-2BwH5O1F0UD5of2XKHGa3SH8VZ-2Bz=
+-2Bl54kyLoRgE8gaeFRo2tObh9dNVrcPBH86XEq1ur6YQBAII1laW-2Br1Wy4TV1nccp2NJXTLh=
+VhIIIrIyjK7phydfuVGKp9mUWbMI_6eAXn76gwMXDlcUYpModpU7vxJlkUGClqyW-2FNwaL8L4h=
+xhTaT3847VkvY3oRpPyLd-2FISDP9X8Prs4dVOzGqJcYy6DsSt2cHh7krcY3o9i38-2F-2BVHIP=
+iSh2Dvv7COV2aqckERRyC0Q7cj71aisGgKq-2FbbxAc8j-2F-2FdTxVG-2FHQgFoJd1QJs9qxjh=
+2ACTBrf9tXfLrL5IR3VB9-2BDNK6SXZFyqZ84xgCnYde9kQsZE4Ecj4uV9DnZTcB-2B-2Fj-2Bg=
+ZY1-2BS8kdkCBmp-2BuDFUY75oUsnXOeX4ewOhEZJ2zNcbDvEeaZx9Mwb9rmK4PttQRl3YgJZe2=
+iH" style=3D"color: #333333; text-decoration: underline;" rel=3D"nofollow" =
+data-scanner-ignore>descadastre-se</a>. </p> </td> </tr> </table> </td> </t=
+r> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]></td> </tr> </ta=
+ble><![endif]--> </td> </tr> </table> </td> </tr> </table> </center>=20
+<img src=3D"http://t.emailmkt.bitnix.com.br/wf/open?upn=3D6eAXn76gwMXDlcUYp=
+ModpU7vxJlkUGClqyW-2FNwaL8L4hxhTaT3847VkvY3oRpPyLd-2FISDP9X8Prs4dVOzGqJcYy6=
+DsSt2cHh7krcY3o9i38-2F-2BVHIPiSh2Dvv7COV2aqckERRyC0Q7cj71aisGgKq-2FcZUfi8ag=
+M4spIQfPXGPaBvy-2BNlcdbr0c-2Fk1ru6Ax7ygPLWCBe7lpYYUwjr2to0SEf3uk26RNJiuK59a=
+c-2F2KEX5xI1O35y-2F6HnV9ukiDLniL4UfRlgv42FOtuzVk8RaMY9kn3r3h6dhv2QNmz3RI4rT=
+AL8hU0rYomxYhboQSse23" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;"/>
+</body> </html>
